@@ -1,0 +1,5 @@
+# This CODEOWNERS file applies to all repositories in the OpenSourceKingdom organization.
+
+# Core Reviewers own everything by default
+* @OpenSourceKingdom/osk-core-reviewers
+
