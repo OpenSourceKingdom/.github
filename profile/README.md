@@ -9,7 +9,7 @@ As such, OSK is a collection of repositories, applications, frameworks, and othe
 ## Community
 OSK is meant to be for others, and as such external help and discussion is welcome. Please checkout the [Hub](https://opensourcekingdom.github.io/OSK.Hub/) repository to get a general overview of the code bases and systems currently available and planned for development as well as next steps to getting started. 
 
-We ask all participants to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+We ask all participants to follow our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Contact
 
