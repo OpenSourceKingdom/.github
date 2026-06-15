@@ -1,34 +1,16 @@
 # Contributing Guidelines
 
-The following is a set of guidelines for contributing to this project. We really appreciate that you are considering contributing!
+We welcome contributions to all OSK projects. To contribute:
 
-#### Table of Contents
+- Fork the repository being updated (or the specific project repo)
+- Create a branch (`git checkout -b <branch-name>`)
+- Make your changes and push the branch to your fork
+- Submit a pull request from your fork to this repository
 
-- [Contributing](#contributing)
-- [Code Guidelines](#code-guidelines)
+By submitting a pull request, you affirm that:
 
-## Contributing
+- You have the right to submit the contribution under the project's license
+- Your contribution does not infringe on any third-party intellectual property rights
+- You agree to abide by the organization's Code of Conduct
 
-### Report a Bug
-
-To report a bug, open an issue on GitHub with the label `bug` using the available [bug report issue form](/.github/ISSUE_TEMPLATE/bug_report.yml). Please ensure the bug has not already been reported.
-
-### Suggest a Feature or Enhancement
-
-To suggest a feature or enhancement, please create an issue on GitHub with the label `enhancement` using the available [feature request issue form](/.github/ISSUE_TEMPLATE/feature_request.yml). Please ensure the feature or enhancement has not already been suggested.
-
-### Open a Pull Request (PR)
-
-- Create a branch, implement your changes, add any relevant tests, and submit a PR when your changes are **tested** and ready for review.
-- Fill in the [PR template](/.github/pull_request_template.md).
-
-> [!NOTE]
-> If you'd like to implement a new feature, please consider creating a [feature request issue](/.github/ISSUE_TEMPLATE/feature_request.yml) first to start a discussion about the feature.
-
-## Code Guidelines
-
-### Git Guidelines
-
-- When making code changes and submitting a PR:
-   - Create a title that is concise and meaningful. Ensure it describes generally what the PR is doing at a glance.
-   - Add a Motivation/Modifications/Results section for each commit message. The goal is to provide contextual information as to why the work is done and what it directly impacted in the system and what potential side effects or new expected behaviors will be after the commit is applied
+This lightweight Contributor Agreement ensures all contributions are voluntary and properly licensed. It applies to every PR submitted to any OSK repository.
