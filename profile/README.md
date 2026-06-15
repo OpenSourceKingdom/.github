@@ -13,4 +13,4 @@ We ask all participants to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contact
 
-If you feel led to sponsor or discuss anything beyond the general OSK repositories, you can reach out to [OSK contact email]()
+If you feel led to sponsor or discuss anything beyond the general OSK repositories, you can reach out to [OSK contact email](mailto:opensourcekingdom.info@gmail.com)
